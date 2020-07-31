@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Dat. I work in the intersection between humans and machines. 
+
+- 👨‍💻 I've been doing open-source for ages. Here are some of my projects that I contributed to:
+  * [imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
+  * [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
+  * [jupyter2slides](https://github.com/datitran/jupyter2slides) - Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js
+- 📫 Feel free to reach me at [hello@dat-tran.com](hello@dat-tran.com) for work-related inquiries
+
+
 <!--
 **datitran/datitran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
