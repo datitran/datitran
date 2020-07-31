@@ -6,7 +6,7 @@ I'm Dat. I work in the intersection between humans and machines.
   * [imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
   * [image-super-resolution](https://github.com/idealo/image-super-resolution) - 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
   * [jupyter2slides](https://github.com/datitran/jupyter2slides) - Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js
-- 📫 Feel free to reach me at [hello@dat-tran.com](hello@dat-tran.com) for work-related inquiries
+- 📫 Feel free to reach me at <hello@dat-tran.com> for work-related inquiries
 
 
 <!--
